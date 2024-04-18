@@ -3,6 +3,9 @@ import { StyleSheet } from 'react-native';
 import EditScreenInfo from '@/components/EditScreenInfo';
 import { Text, View } from '@/components/Themed';
 
+//TODO: - Fix "Could not connect to development server" error
+
+
 export default function TabOneScreen() {
   return (
     <View style={styles.container}>
